@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is a Brazilian Housekeeping Services Company.
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Thanks for taking a look to my project, hope you enjoy!
